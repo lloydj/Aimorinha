@@ -8,13 +8,13 @@ I'm new to web development and been learning Javascript for 1y. I'm a marketer a
 - Netlify hosted
 - Contentful CMS"ed"
 - API ready
-A a huge piece of Jamstack mess!
+- A *huge* piece of Jamstack mess!
 
 In the next year or so, I will make it clearer.
 
 ```
 ps: I really don't understand 
-- Markup
+- Markup or Mardown ... wtv that is
 - Node.js
 - Webpack
 - Facebook Api
