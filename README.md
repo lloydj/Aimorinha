@@ -1,13 +1,13 @@
-# gatsby-starter-default
-The default Gatsby starter
+# Aimorinha is an experiment
+Let's see how far it can go
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+I'm new in web development and been learning Javascript for 1y. I'm a marketer and feel like Fredrick Douglas with so much more helpful people, websites, advices... Enought about me, WTF is Aimorinha anyway? 
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+
 ```
-gatsby new gatsby-example-site
+I really don't understand Markup
 ```
 
-## Deploy
+## Follow me
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+[![follow me](https://www.instagram.com/lloyd_jong/)
