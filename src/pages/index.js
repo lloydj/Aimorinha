@@ -4,7 +4,7 @@ import PostListing from "../components/Posts/PostListing";
 
 const IndexPage = ({ data }) => (
   <div>
-    <h2>Posts</h2>
+    <h2>Articles</h2>
     {data.allContentfulBlogPost.edges.map(({ node }) => (
       <PostListing key={node.id} post={node} />
     ))}
