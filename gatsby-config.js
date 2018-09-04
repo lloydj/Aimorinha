@@ -35,6 +35,7 @@ module.exports = {
         path: `${__dirname}/static/assets`
       }
     },
+   
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     "gatsby-transformer-remark"

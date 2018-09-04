@@ -6,8 +6,10 @@ export default class PostPage extends Component {
     if (!data) return null;
     return (
       <div>
-        <span>{data.contentfulBlogPost.date}</span>
+        
         <h1>{data.contentfulBlogPost.title}</h1>
+        <span>{data.contentfulBlogPost.date}</span>
+        
         <div
           dangerouslySetInnerHTML={{
             __html: data.contentfulBlogPost.body.childMarkdownRemark.html
